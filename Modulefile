@@ -10,3 +10,4 @@ source       'https://github.com/adrienthebo/puppet-network'
 project_page 'https://github.com/adrienthebo/puppet-network'
 
 dependency 'adrien/filemapper', '1.0.x'
+dependency 'camptocamp/kmod', '0.0.x'
